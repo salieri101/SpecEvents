@@ -3,8 +3,6 @@ SpecEvents
 
 Some jc2mp GameEvents, thanks to Jman and Misterff1  
 
-Some jc2mp GameEvents, thanks to Jman and Misterff1
-
 "Dish"'s commands: /dish1, /dish2, /dish3
 
 "Tower"'s command: /tower
