@@ -10,3 +10,7 @@ Some jc2mp GameEvents, thanks to Jman and Misterff1
 "Dome"'s commands: /dome1, /dome2, /dome3
 
 "Mouth" is not finished / fixed yet and gives an error msg but its command is in the "Dome" 
+
+"Rico"'s commands: /yea, /sing
+
+"VehOnFire"'s command: /cfire
