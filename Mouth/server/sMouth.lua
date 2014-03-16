@@ -19,13 +19,8 @@ function MouthForecast:ChatMessage(args)
         table.insert(cmdargs, word)
     end
     
-    if ( cmdargs[1] == "/mouth1" ) then
---	Network:Send( player, "MouthFunctionOpen")
-	Network:Broadcast( player, "MouthFunctionOpen")	
-	end
-     if ( cmdargs[1] == "/mouth2" ) then
---	Network:Send( player, "MouthFunctionClose")
-	Network:Broadcast( player, "MouthFunctionClose")	
+    if ( cmdargs[1] == "/mouth" ) then
+	Network:Send(player, "MouthOpen")
 	end
 
     return false
